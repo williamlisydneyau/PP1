@@ -1,1 +1,7 @@
-print("Hello from Github!")
+intro = "Hello from Github!"
+middle = "I am William Li"
+username = "Will67"
+password = "qwerty"
+security = "low"
+
+print(intro, middle, "and my username is:", username, ",", "my password is:", password, "and my security is", security, ".")
